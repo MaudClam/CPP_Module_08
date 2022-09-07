@@ -13,9 +13,9 @@
 #ifndef SPAN_HPP
 # define SPAN_HPP
 
-# define VOLUME 		1000000
-# define VOLUME1 		100000000
-# define VOLUME2 		100000000
+# define VOLUME 		100000
+# define VOLUME1 		10000000
+# define VOLUME2 		10000000
 # define OUTPUT_LIMIT	3
 
 # include <iostream>
